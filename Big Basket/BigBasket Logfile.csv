@@ -1,0 +1,54 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705579788310,4011,Home Page HTTP Request,200,OK,Thread Group 1-1,text,true,,535921,240,5,5,https://www.bigbasket.com:443/,459,0,412
+1705579788310,459,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,337,116,5,5,https://bigbasket.com/,459,0,412
+1705579788777,3544,Home Page HTTP Request-1,200,OK,Thread Group 1-1,text,true,,535584,124,5,5,https://www.bigbasket.com:443/,3287,0,489
+1705579789471,4673,Home Page HTTP Request,200,OK,Thread Group 1-3,text,true,,479722,240,5,5,https://www.bigbasket.com:443/,172,0,135
+1705579789471,172,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,337,116,5,5,https://bigbasket.com/,172,0,135
+1705579789645,4499,Home Page HTTP Request-1,200,OK,Thread Group 1-3,text,true,,479385,124,5,5,https://www.bigbasket.com:443/,4046,0,424
+1705579788883,5537,Home Page HTTP Request,200,OK,Thread Group 1-2,text,true,,479723,240,5,5,https://www.bigbasket.com:443/,175,0,133
+1705579788883,175,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,337,116,5,5,https://bigbasket.com/,175,0,133
+1705579789059,5361,Home Page HTTP Request-1,200,OK,Thread Group 1-2,text,true,,479386,124,5,5,https://www.bigbasket.com:443/,5158,0,465
+1705579790056,5544,Home Page HTTP Request,200,OK,Thread Group 1-4,text,true,,479722,240,5,5,https://www.bigbasket.com:443/,180,0,142
+1705579790056,180,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,337,116,5,5,https://bigbasket.com/,180,0,142
+1705579790237,5363,Home Page HTTP Request-1,200,OK,Thread Group 1-4,text,true,,479385,124,5,5,https://www.bigbasket.com:443/,5008,0,454
+1705579790656,5942,Home Page HTTP Request,200,OK,Thread Group 1-5,text,true,,535923,240,5,5,https://www.bigbasket.com:443/,170,0,130
+1705579790656,170,Home Page HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,337,116,5,5,https://bigbasket.com/,170,0,130
+1705579790828,5770,Home Page HTTP Request-1,200,OK,Thread Group 1-5,text,true,,535586,124,5,5,https://www.bigbasket.com:443/,3665,0,475
+1705579794155,3445,Search Product HTTP Request,200,OK,Thread Group 1-3,text,true,,240075,1632,5,5,https://www.bigbasket.com:443/ps/?q=carrot,39,0,0
+1705579794155,39,Search Product HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,348,456,5,5,https://bigbasket.com/ps?q=carrot,39,0,0
+1705579794195,301,Search Product HTTP Request-1,301,Moved Permanently,Thread Group 1-3,text,true,,1003,540,5,5,https://www.bigbasket.com:443/ps?q=carrot,301,0,0
+1705579794497,3103,Search Product HTTP Request-2,200,OK,Thread Group 1-3,text,true,,238724,636,5,5,https://www.bigbasket.com:443/ps/?q=carrot,2931,0,0
+1705579794424,3174,Search Product HTTP Request,200,OK,Thread Group 1-2,text,true,,239473,1633,5,5,https://www.bigbasket.com:443/ps/?q=carrot,48,0,0
+1705579794424,48,Search Product HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,348,456,5,5,https://bigbasket.com/ps?q=carrot,48,0,0
+1705579794473,307,Search Product HTTP Request-1,301,Moved Permanently,Thread Group 1-2,text,true,,1004,540,5,5,https://www.bigbasket.com:443/ps?q=carrot,307,0,0
+1705579794782,2816,Search Product HTTP Request-2,200,OK,Thread Group 1-2,text,true,,238121,637,5,5,https://www.bigbasket.com:443/ps/?q=carrot,2646,0,0
+1705579792337,5764,Search Product HTTP Request,200,OK,Thread Group 1-1,text,true,,157613,1632,5,5,https://www.bigbasket.com:443/ps/?q=carrot,36,0,0
+1705579792337,36,Search Product HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,348,456,5,5,https://bigbasket.com/ps?q=carrot,36,0,0
+1705579792374,306,Search Product HTTP Request-1,301,Moved Permanently,Thread Group 1-1,text,true,,746,540,5,5,https://www.bigbasket.com:443/ps?q=carrot,306,0,0
+1705579792682,5419,Search Product HTTP Request-2,200,OK,Thread Group 1-1,text,true,,156519,636,5,5,https://www.bigbasket.com:443/ps/?q=carrot,5288,0,0
+1705579795608,2560,Search Product HTTP Request,200,OK,Thread Group 1-4,text,true,,88611,1633,5,5,https://www.bigbasket.com:443/ps/?q=carrot,61,0,0
+1705579795608,61,Search Product HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,348,456,5,5,https://bigbasket.com/ps?q=carrot,61,0,0
+1705579795670,316,Search Product HTTP Request-1,301,Moved Permanently,Thread Group 1-4,text,true,,1004,540,5,5,https://www.bigbasket.com:443/ps?q=carrot,316,0,0
+1705579795988,2180,Search Product HTTP Request-2,200,OK,Thread Group 1-4,text,true,,87259,637,5,5,https://www.bigbasket.com:443/ps/?q=carrot,2052,0,0
+1705579797627,984,Select Product HTTP Request,200,OK,Thread Group 1-2,text,true,,100281,1558,5,5,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,58,0,0
+1705579797627,58,Select Product HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,375,737,5,5,https://bigbasket.com/pd/10000071/fresho-carrot-orange-250-g,58,0,0
+1705579797686,925,Select Product HTTP Request-1,200,OK,Thread Group 1-2,text,true,,99906,821,5,5,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,819,0,0
+1705579796608,2841,Search Product HTTP Request,200,OK,Thread Group 1-5,text,true,,129735,1632,4,4,https://www.bigbasket.com:443/ps/?q=carrot,51,0,0
+1705579796608,52,Search Product HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,348,456,4,4,https://bigbasket.com/ps?q=carrot,51,0,0
+1705579796661,314,Search Product HTTP Request-1,301,Moved Permanently,Thread Group 1-5,text,true,,1003,540,4,4,https://www.bigbasket.com:443/ps?q=carrot,314,0,0
+1705579796977,2472,Search Product HTTP Request-2,200,OK,Thread Group 1-5,text,true,,128384,636,4,4,https://www.bigbasket.com:443/ps/?q=carrot,2320,0,0
+1705579797627,1919,Select Product HTTP Request,200,OK,Thread Group 1-3,text,true,,116735,1642,4,4,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,38,0,0
+1705579797627,38,Select Product HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,375,779,4,4,https://bigbasket.com/pd/10000071/fresho-carrot-orange-250-g,38,0,0
+1705579797665,1881,Select Product HTTP Request-1,200,OK,Thread Group 1-3,text,true,,116360,863,4,4,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,1768,0,0
+1705579798172,2722,Select Product HTTP Request,200,OK,Thread Group 1-4,text,true,,118269,1930,3,3,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,39,0,0
+1705579798172,39,Select Product HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,375,587,3,3,https://bigbasket.com/pd/10000071/fresho-carrot-orange-250-g,39,0,0
+1705579798212,375,Select Product HTTP Request-1,308,Permanent Redirect,Thread Group 1-4,,true,,1794,671,3,3,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,375,0,0
+1705579798590,2304,Select Product HTTP Request-2,200,OK,Thread Group 1-4,text,true,,116100,672,3,3,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,2174,0,0
+1705579798107,3902,Select Product HTTP Request,200,OK,Thread Group 1-1,text,true,,459439,1903,2,2,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,55,0,0
+1705579798107,55,Select Product HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,375,578,2,2,https://bigbasket.com/pd/10000071/fresho-carrot-orange-250-g,55,0,0
+1705579798162,459,Select Product HTTP Request-1,308,Permanent Redirect,Thread Group 1-1,,true,,1788,662,2,2,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,459,0,0
+1705579798623,3386,Select Product HTTP Request-2,200,OK,Thread Group 1-1,text,true,,457276,663,2,2,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,3163,0,0
+1705579799455,2773,Select Product HTTP Request,200,OK,Thread Group 1-5,text,true,,153458,1903,1,1,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,46,0,0
+1705579799455,46,Select Product HTTP Request-0,301,Moved Permanently,Thread Group 1-5,text,true,,375,578,1,1,https://bigbasket.com/pd/10000071/fresho-carrot-orange-250-g,46,0,0
+1705579799501,361,Select Product HTTP Request-1,308,Permanent Redirect,Thread Group 1-5,,true,,1788,662,1,1,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g,360,0,0
+1705579799865,2363,Select Product HTTP Request-2,200,OK,Thread Group 1-5,text,true,,151295,663,1,1,https://www.bigbasket.com:443/pd/10000071/fresho-carrot-orange-250-g/,2213,0,0
