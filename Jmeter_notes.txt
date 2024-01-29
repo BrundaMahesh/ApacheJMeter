@@ -1,0 +1,26 @@
+jmeter -?
+
+jmeter -n -t "D:\JMeter Tests\Linkedin -Test Plan.jmx"
+
+jmeter -n -t "D:\JMeter Tests\Linkedin -Test Plan.jmx" -l "D:\JMeter Tests\LinkedinResult1.csv"
+
+jmeter -n -t "D:\JMeter Tests\Linkedin -Test Plan.jmx" -l "D:\JMeter Tests\LinkedinResult2.csv" -e -o "D:\JMeter Tests\LinkedinReport"
+
+jmeter  -g  "D:\JMeter Tests\LinkedinResult2.csv" -o "D:\JMeter Tests\LinkedinReport3"
+
+
+changes should be made only in this user.properties file, don't ever touch reportgenerator.properties file
+
+# Configure this property to change the report title
+jmeter.reportgenerator.report_title=Test Plan Report
+
+
+# Change this parameter if you want to change the granularity of over time graphs.
+# Set to 60000 ms by default
+jmeter.reportgenerator.overall_granularity=500
+
+
+# Change this parameter if you want to change the granularity of Response time distribution
+# Set to 100 ms by default
+jmeter.reportgenerator.graph.responseTimeDistribution.property.set_granularity=50
+
