@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707237005449,975,home/-68,200,OK,Thread Group 1-1,text,true,,31285,656,1,1,https://casekaro.com/,974,0,616
+1707237006439,254,mobile covers/-144,200,OK,Thread Group 1-1,text,true,,31259,708,1,1,https://casekaro.com/,254,0,0
+1707237006695,247,mobile covers/pages/mobile-back-covers-201,200,OK,Thread Group 1-1,text,true,,27481,719,1,1,https://casekaro.com/pages/mobile-back-covers,247,0,0
+1707237006944,286,mouse pad/-261,200,OK,Thread Group 1-1,text,true,,31254,708,1,1,https://casekaro.com/,286,0,0
+1707237007232,531,mouse pad/search-318,200,OK,Thread Group 1-1,text,true,,28699,713,1,1,https://casekaro.com/search?q=mouse+pad,531,0,0
