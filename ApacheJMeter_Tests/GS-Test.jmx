@@ -6,6 +6,8 @@
       <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments">
         <collectionProp name="Arguments.arguments"/>
       </elementProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
     </TestPlan>
     <hashTree>
       <HeaderManager guiclass="HeaderPanel" testclass="HeaderManager" testname="HTTP Header manager">
@@ -90,7 +92,7 @@
         <boolProp name="CacheManager.controlledByThread">false</boolProp>
       </CacheManager>
       <hashTree/>
-      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config">
+      <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
         <stringProp name="delimiter">,</stringProp>
         <stringProp name="fileEncoding">UTF-8</stringProp>
         <stringProp name="filename">D:/JMeter Tests/GoogleSearchData.csv</stringProp>
@@ -115,11 +117,11 @@
         </elementProp>
       </ThreadGroup>
       <hashTree>
-        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Test">
+        <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Test" enabled="true">
           <boolProp name="TransactionController.includeTimers">false</boolProp>
         </TransactionController>
         <hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://www.google.com/">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://www.google.com/" enabled="true">
             <boolProp name="HTTPSampler.image_parser">true</boolProp>
             <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
             <stringProp name="HTTPSampler.port">0</stringProp>
@@ -181,7 +183,7 @@
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
-          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://www.google.com/search?q=jmeter&amp;sca_esv=598740777&amp;sxsrf=ACQVn08Z1i1t1HZNbLPTjkGhbdOj7oFOtQ%3A1705398679950&amp;source=hp&amp;ei=l1GmZb2iONyjnesP4aG0wAI&amp;iflsig=ANes7DEAAAAAZaZfp_TI3Xn1la2NQ0J8r7_o396k8xjK&amp;ved=0ahUKEwj9yZGU0eGDAxXcUWcHHeEQDSgQ4dUDCAo&amp;uact=5&amp;oq=jmeter&amp;gs_lp=Egdnd3Mtd2l6IgZqbWV0ZXIyChAjGIAEGIoFGCcyERAAGIAEGIoFGJECGLEDGIMBMg0QABiABBgUGIcCGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjkKVDmFFjkHnABeACQAQCYAV2gAfwDqgEBNrgBA8gBAPgBAagCCsICBxAjGOoCGCfCAgcQLhjqAhgnwgIQEAAYAxiPARjlAhjqAhiMA8ICChAAGIAEGIoFGEPCAg0QABiABBiKBRhDGLEDwgIQEAAYgAQYigUYQxixAxiDAcICEBAAGIAEGBQYhwIYsQMYgwE&amp;sclient=gws-wiz">
+          <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://www.google.com/search?q=jmeter&amp;sca_esv=598740777&amp;sxsrf=ACQVn08Z1i1t1HZNbLPTjkGhbdOj7oFOtQ%3A1705398679950&amp;source=hp&amp;ei=l1GmZb2iONyjnesP4aG0wAI&amp;iflsig=ANes7DEAAAAAZaZfp_TI3Xn1la2NQ0J8r7_o396k8xjK&amp;ved=0ahUKEwj9yZGU0eGDAxXcUWcHHeEQDSgQ4dUDCAo&amp;uact=5&amp;oq=jmeter&amp;gs_lp=Egdnd3Mtd2l6IgZqbWV0ZXIyChAjGIAEGIoFGCcyERAAGIAEGIoFGJECGLEDGIMBMg0QABiABBgUGIcCGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjkKVDmFFjkHnABeACQAQCYAV2gAfwDqgEBNrgBA8gBAPgBAagCCsICBxAjGOoCGCfCAgcQLhjqAhgnwgIQEAAYAxiPARjlAhjqAhiMA8ICChAAGIAEGIoFGEPCAg0QABiABBiKBRhDGLEDwgIQEAAYgAQYigUYQxixAxiDAcICEBAAGIAEGBQYhwIYsQMYgwE&amp;sclient=gws-wiz" enabled="true">
             <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
             <stringProp name="HTTPSampler.port">0</stringProp>
             <stringProp name="HTTPSampler.protocol">https</stringProp>
@@ -252,7 +254,7 @@
             <hashTree/>
           </hashTree>
         </hashTree>
-        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree">
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
           <boolProp name="ResultCollector.error_logging">false</boolProp>
           <objProp>
             <name>saveConfig</name>
