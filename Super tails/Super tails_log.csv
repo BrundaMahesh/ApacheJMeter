@@ -1,0 +1,161 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707548972245,2065,home/-37,200,OK,Smoke Testing 2-2,text,true,,170184,658,6,12,https://supertails.com/,2022,0,154
+1707548971781,2564,home/-37,200,OK,Smoke Testing 2-1,text,true,,170798,658,6,12,https://supertails.com/,2516,0,354
+1707548972244,2188,home/-37,200,OK,Load Testing 1-2,text,true,,170882,658,6,12,https://supertails.com/,2104,0,152
+1707548971781,3002,home/-37,200,OK,Load Testing 1-1,text,true,,170508,658,7,14,https://supertails.com/,2954,0,354
+1707548973223,2007,home/-37,200,OK,Load Testing 1-4,text,true,,170492,658,8,16,https://supertails.com/,1968,0,138
+1707548974321,1318,search/pages/search-results-1-673,200,OK,Smoke Testing 2-2,text,true,,121305,1359,8,16,https://supertails.com/pages/search-results-1?q=pedigree,1280,0,0
+1707548973235,2432,home/-37,200,OK,Smoke Testing 2-4,text,true,,170648,658,7,15,https://supertails.com/,2390,0,142
+1707548974348,1449,search/pages/search-results-1-673,200,OK,Smoke Testing 2-1,text,true,,121342,1359,8,17,https://supertails.com/pages/search-results-1?q=pedigree,1409,0,0
+1707548972746,3393,home/-37,200,OK,Load Testing 1-3,text,true,,170592,658,9,16,https://supertails.com/,3328,0,142
+1707548975668,847,search/pages/search-results-1-673,200,OK,Smoke Testing 2-4,text,true,,121474,1359,8,18,https://supertails.com/pages/search-results-1?q=pedigree,811,0,0
+1707548974734,1946,home/-37,200,OK,Smoke Testing 2-7,text,true,,170728,658,7,17,https://supertails.com/,1906,0,132
+1707548975726,1459,home/-37,200,OK,Smoke Testing 2-9,text,true,,170384,658,8,19,https://supertails.com/,1414,0,120
+1707548973723,3537,home/-37,200,OK,Load Testing 1-5,text,true,,170783,658,12,21,https://supertails.com/,3081,0,130
+1707548976143,1177,search/pages/search-results-1-673,200,OK,Load Testing 1-3,text,true,,121336,1359,12,21,https://supertails.com/pages/search-results-1?q=pedigree,1138,0,0
+1707548972745,4580,home/-37,200,OK,Smoke Testing 2-3,text,true,,170687,658,9,21,https://supertails.com/,4513,0,147
+1707548975232,2178,search/pages/search-results-1-673,200,OK,Load Testing 1-4,text,true,,121472,1359,12,21,https://supertails.com/pages/search-results-1?q=pedigree,886,0,0
+1707548975218,2412,home/-37,200,OK,Load Testing 1-8,text,true,,170662,658,12,21,https://supertails.com/,2370,0,123
+1707548973737,4019,home/-37,200,OK,Smoke Testing 2-5,text,true,,170556,658,10,23,https://supertails.com/,3976,0,126
+1707548975229,2862,home/-37,200,OK,Smoke Testing 2-8,text,true,,170612,658,10,23,https://supertails.com/,2817,0,118
+1707548976681,1490,search/pages/search-results-1-673,200,OK,Smoke Testing 2-7,text,true,,121091,1359,10,23,https://supertails.com/pages/search-results-1?q=pedigree,1448,0,0
+1707548974433,3775,search/pages/search-results-1-673,200,OK,Load Testing 1-2,text,true,,121337,1359,14,23,https://supertails.com/pages/search-results-1?q=pedigree,3738,0,0
+1707548976713,1609,home/-37,200,OK,Load Testing 1-11,text,true,,170427,658,14,24,https://supertails.com/,1570,0,118
+1707548974786,3849,search/pages/search-results-1-673,200,OK,Load Testing 1-1,text,true,,121595,1359,14,24,https://supertails.com/pages/search-results-1?q=pedigree,3815,0,0
+1707548977186,1522,search/pages/search-results-1-673,200,OK,Smoke Testing 2-9,text,true,,121350,1359,10,25,https://supertails.com/pages/search-results-1?q=pedigree,1486,0,0
+1707548976726,2523,home/-37,200,OK,Smoke Testing 2-11,text,true,,170639,658,11,27,https://supertails.com/,2418,0,116
+1707548978225,1204,home/-37,200,OK,Smoke Testing 2-14,text,true,,170511,658,11,27,https://supertails.com/,1154,0,121
+1707548977261,2300,search/pages/search-results-1-673,200,OK,Load Testing 1-5,text,true,,121013,1359,16,27,https://supertails.com/pages/search-results-1?q=pedigree,2254,0,0
+1707548975715,3860,home/-37,200,OK,Load Testing 1-9,text,true,,170492,658,16,27,https://supertails.com/,3789,0,127
+1707548977327,2270,search/pages/search-results-1-673,200,OK,Smoke Testing 2-3,text,true,,121376,1359,11,27,https://supertails.com/pages/search-results-1?q=pedigree,2231,0,0
+1707548974218,5434,home/-37,200,OK,Load Testing 1-6,text,true,,170644,658,16,26,https://supertails.com/,5326,0,125
+1707548978323,1541,search/pages/search-results-1-673,200,OK,Load Testing 1-11,text,true,,121355,1359,17,28,https://supertails.com/pages/search-results-1?q=pedigree,1507,0,0
+1707548974233,5775,home/-37,200,OK,Smoke Testing 2-6,text,true,,170464,658,11,28,https://supertails.com/,5731,0,120
+1707548977212,3027,home/-37,200,OK,Load Testing 1-12,text,true,,170284,658,18,30,https://supertails.com/,2946,0,125
+1707548978210,2129,home/-37,200,OK,Load Testing 1-14,text,true,,170273,658,18,30,https://supertails.com/,2087,0,458
+1707548974717,5741,home/-37,200,OK,Load Testing 1-7,text,true,,170265,658,18,30,https://supertails.com/,5695,0,125
+1707548977223,3302,home/-37,200,OK,Smoke Testing 2-12,text,true,,170562,658,12,30,https://supertails.com/,3232,0,122
+1707548976216,4753,home/-37,200,OK,Load Testing 1-10,text,true,,170474,658,19,32,https://supertails.com/,4682,0,125
+1707548977321,3679,offer zone/pages/superdeals-850,200,OK,Load Testing 1-3,text,true,,134534,1307,19,32,https://supertails.com/pages/superdeals,3641,0,0
+1707548978635,2411,offer zone/pages/superdeals-850,200,OK,Load Testing 1-1,text,true,,134812,1307,19,32,https://supertails.com/pages/superdeals,2370,0,0
+1707548976226,5115,home/-37,200,OK,Smoke Testing 2-10,text,true,,170266,658,14,34,https://supertails.com/,5074,0,133
+1707548977631,3813,search/pages/search-results-1-673,200,OK,Load Testing 1-8,text,true,,121512,1359,20,34,https://supertails.com/pages/search-results-1?q=pedigree,3775,0,0
+1707548978707,2850,home/-37,200,OK,Load Testing 1-15,text,true,,170475,658,20,34,https://supertails.com/,2783,0,124
+1707548977758,4062,search/pages/search-results-1-673,200,OK,Smoke Testing 2-5,text,true,,121347,1359,14,34,https://supertails.com/pages/search-results-1?q=pedigree,4009,0,0
+1707548980203,1766,home/-37,200,OK,Load Testing 1-18,text,true,,170385,658,20,33,https://supertails.com/,1654,0,1137
+1707548981199,958,home/-37,200,OK,Load Testing 1-20,text,true,,170112,658,20,33,https://supertails.com/,878,0,121
+1707548981342,871,search/pages/search-results-1-673,200,OK,Smoke Testing 2-10,text,true,,121310,1359,13,33,https://supertails.com/pages/search-results-1?q=pedigree,420,0,0
+1707548977722,4575,home/-37,200,OK,Smoke Testing 2-13,text,true,,170580,658,12,32,https://supertails.com/,4502,0,148
+1707548977412,4935,offer zone/pages/superdeals-850,200,OK,Load Testing 1-4,text,true,,134985,1307,20,32,https://supertails.com/pages/superdeals,4855,0,0
+1707548978722,3643,home/-37,200,OK,Smoke Testing 2-15,text,true,,170271,658,12,32,https://supertails.com/,3565,0,120
+1707548979250,3251,search/pages/search-results-1-673,200,OK,Smoke Testing 2-11,text,true,,121574,1359,12,32,https://supertails.com/pages/search-results-1?q=pedigree,3185,0,0
+1707548979721,2877,home/-37,200,OK,Smoke Testing 2-17,text,true,,170354,658,11,31,https://supertails.com/,2830,0,120
+1707548977712,4995,home/-37,200,OK,Load Testing 1-13,text,true,,170375,658,20,31,https://supertails.com/,4953,0,127
+1707548980340,3197,search/pages/search-results-1-673,200,OK,Load Testing 1-14,text,true,,121305,1359,20,31,https://supertails.com/pages/search-results-1?q=pedigree,3153,0,0
+1707548978210,5446,offer zone/pages/superdeals-850,200,OK,Load Testing 1-2,text,true,,134842,1307,20,31,https://supertails.com/pages/superdeals,5404,0,0
+1707548979430,4342,search/pages/search-results-1-673,200,OK,Smoke Testing 2-14,text,true,,121523,1359,11,31,https://supertails.com/pages/search-results-1?q=pedigree,4008,0,0
+1707548980240,3558,search/pages/search-results-1-673,200,OK,Load Testing 1-12,text,true,,121315,1359,20,30,https://supertails.com/pages/search-results-1?q=pedigree,3305,0,0
+1707548980222,3700,home/-37,200,OK,Smoke Testing 2-18,text,true,,170398,658,10,30,https://supertails.com/,3656,0,122
+1707548978092,5832,search/pages/search-results-1-673,200,OK,Smoke Testing 2-8,text,true,,121552,1359,10,30,https://supertails.com/pages/search-results-1?q=pedigree,5790,0,0
+1707548979220,4773,home/-37,200,OK,Smoke Testing 2-16,text,true,,170551,658,9,29,https://supertails.com/,4658,0,124
+1707548982158,1884,search/pages/search-results-1-673,200,OK,Load Testing 1-20,text,true,,121253,1359,20,29,https://supertails.com/pages/search-results-1?q=pedigree,1846,0,0
+1707548979206,4944,home/-37,200,OK,Load Testing 1-16,text,true,,170629,658,20,29,https://supertails.com/,4883,0,125
+1707548982299,2176,search/pages/search-results-1-673,200,OK,Smoke Testing 2-13,text,true,,121411,1359,9,29,https://supertails.com/pages/search-results-1?q=pedigree,2139,0,0
+1707548980459,4045,search/pages/search-results-1-673,200,OK,Load Testing 1-7,text,true,,121580,1359,20,28,https://supertails.com/pages/search-results-1?q=pedigree,3858,0,0
+1707548979576,5039,search/pages/search-results-1-673,200,OK,Load Testing 1-9,text,true,,121370,1359,20,28,https://supertails.com/pages/search-results-1?q=pedigree,4998,0,0
+1707548980527,4277,search/pages/search-results-1-673,200,OK,Smoke Testing 2-12,text,true,,121590,1359,8,28,https://supertails.com/pages/search-results-1?q=pedigree,4241,0,0
+1707548979654,5371,search/pages/search-results-1-673,200,OK,Load Testing 1-6,text,true,,121266,1359,20,27,https://supertails.com/pages/search-results-1?q=pedigree,5363,0,0
+1707548980701,4581,home/-37,200,OK,Load Testing 1-19,text,true,,170464,658,20,27,https://supertails.com/,4513,0,140
+1707548982348,3051,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-4,text,true,,153558,1325,20,27,https://supertails.com/collections/henlo,3001,0,0
+1707548985284,220,search/pages/search-results-1-673,200,OK,Load Testing 1-19,text,true,,121372,1359,20,27,https://supertails.com/pages/search-results-1?q=pedigree,216,0,0
+1707548982366,3166,search/pages/search-results-1-673,200,OK,Smoke Testing 2-15,text,true,,121538,1359,7,27,https://supertails.com/pages/search-results-1?q=pedigree,3161,0,0
+1707548979562,6082,offer zone/pages/superdeals-850,200,OK,Load Testing 1-5,text,true,,134672,1307,20,26,https://supertails.com/pages/superdeals,6025,0,0
+1707548985504,165,offer zone/pages/superdeals-850,200,OK,Load Testing 1-19,text,true,,134622,1307,20,26,https://supertails.com/pages/superdeals,162,0,0
+1707548980723,5002,home/-37,200,OK,Smoke Testing 2-19,text,true,,170532,658,6,26,https://supertails.com/,4942,0,139
+1707548985645,296,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-5,text,true,,153427,1325,20,26,https://supertails.com/collections/henlo,255,0,0
+1707548985725,219,search/pages/search-results-1-673,200,OK,Smoke Testing 2-19,text,true,,121286,1359,6,26,https://supertails.com/pages/search-results-1?q=pedigree,215,0,0
+1707548982599,3351,search/pages/search-results-1-673,200,OK,Smoke Testing 2-17,text,true,,121654,1359,5,25,https://supertails.com/pages/search-results-1?q=pedigree,3308,0,0
+1707548979865,6174,offer zone/pages/superdeals-850,200,OK,Load Testing 1-11,text,true,,134677,1307,20,24,https://supertails.com/pages/superdeals,6135,0,0
+1707548980971,5179,search/pages/search-results-1-673,200,OK,Load Testing 1-10,text,true,,121322,1359,20,24,https://supertails.com/pages/search-results-1?q=pedigree,5140,0,0
+1707548985942,292,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-5,text,true,,243512,1438,20,24,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,233,0,0
+1707548986040,211,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-11,text,true,,153514,1325,20,24,https://supertails.com/collections/henlo,170,0,0
+1707548985669,583,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-19,text,true,,153337,1325,20,24,https://supertails.com/collections/henlo,522,0,0
+1707548986151,204,offer zone/pages/superdeals-850,200,OK,Load Testing 1-10,text,true,,135186,1307,20,24,https://supertails.com/pages/superdeals,169,0,0
+1707548985400,983,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-4,text,true,,243549,1438,20,24,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,832,0,0
+1707548982708,3750,search/pages/search-results-1-673,200,OK,Load Testing 1-13,text,true,,121709,1359,20,24,https://supertails.com/pages/search-results-1?q=pedigree,3712,0,0
+1707548979705,6802,home/-37,200,OK,Load Testing 1-17,text,true,,170538,658,20,24,https://supertails.com/,6757,0,129
+1707548981002,5735,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-3,text,true,,153110,1325,20,24,https://supertails.com/collections/henlo,5691,0,0
+1707548980009,6928,search/pages/search-results-1-673,200,OK,Smoke Testing 2-6,text,true,,121463,1359,4,24,https://supertails.com/pages/search-results-1?q=pedigree,6889,0,0
+1707548983658,3641,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-2,text,true,,153159,1325,20,23,https://supertails.com/collections/henlo,3601,0,0
+1707548981048,6273,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-1,text,true,,153501,1325,20,23,https://supertails.com/collections/henlo,6235,0,0
+1707548986737,656,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-3,text,true,,243656,1438,20,23,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,573,0,0
+1707548981446,5988,offer zone/pages/superdeals-850,200,OK,Load Testing 1-8,text,true,,134944,1307,20,23,https://supertails.com/pages/superdeals,5947,0,0
+1707548987322,753,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-1,text,true,,243377,1438,20,23,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,419,0,0
+1707548987436,692,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-8,text,true,,153653,1325,20,23,https://supertails.com/collections/henlo,256,0,0
+1707548981559,6690,search/pages/search-results-1-673,200,OK,Load Testing 1-15,text,true,,121330,1359,20,23,https://supertails.com/pages/search-results-1?q=pedigree,6648,0,0
+1707548987394,899,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-3,text,true,,143554,1310,20,23,https://supertails.com/pages/consult-a-vet,818,0,0
+1707548983800,4528,offer zone/pages/superdeals-850,200,OK,Load Testing 1-12,text,true,,134722,1307,19,22,https://supertails.com/pages/superdeals,4437,0,0
+1707548983995,4334,search/pages/search-results-1-673,200,OK,Smoke Testing 2-16,text,true,,121483,1359,3,22,https://supertails.com/pages/search-results-1?q=pedigree,4295,0,0
+1707548981971,6447,search/pages/search-results-1-673,200,OK,Load Testing 1-18,text,true,,121306,1359,19,21,https://supertails.com/pages/search-results-1?q=pedigree,6400,0,0
+1707548986252,2319,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-11,text,true,,243931,1438,19,21,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2237,0,0
+1707548983923,4778,search/pages/search-results-1-673,200,OK,Smoke Testing 2-18,text,true,,121497,1359,2,21,https://supertails.com/pages/search-results-1?q=pedigree,4739,0,0
+1707548986252,2803,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-19,text,true,,243398,1438,19,20,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2722,0,0
+1707548984043,5159,offer zone/pages/superdeals-850,200,OK,Load Testing 1-20,text,true,,134779,1307,19,20,https://supertails.com/pages/superdeals,5118,0,0
+1707548981223,7999,home/-37,200,OK,Smoke Testing 2-20,text,true,,170150,658,1,20,https://supertails.com/,7585,0,125
+1707548986357,3249,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-10,text,true,,153288,1325,19,20,https://supertails.com/collections/henlo,3208,0,0
+1707548984152,5726,search/pages/search-results-1-673,200,OK,Load Testing 1-16,text,true,,121715,1359,19,20,https://supertails.com/pages/search-results-1?q=pedigree,5686,0,0
+1707548987301,2734,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-2,text,true,,243381,1438,19,20,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2648,0,0
+1707548983538,6536,offer zone/pages/superdeals-850,200,OK,Load Testing 1-14,text,true,,134730,1307,19,20,https://supertails.com/pages/superdeals,6494,0,0
+1707548984506,5650,offer zone/pages/superdeals-850,200,OK,Load Testing 1-7,text,true,,134736,1307,19,20,https://supertails.com/pages/superdeals,5609,0,0
+1707548988077,2487,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-1,text,true,,143627,1310,19,20,https://supertails.com/pages/consult-a-vet,2403,0,0
+1707548986460,4164,offer zone/pages/superdeals-850,200,OK,Load Testing 1-13,text,true,,134824,1307,18,19,https://supertails.com/pages/superdeals,4158,0,0
+1707548984616,6087,offer zone/pages/superdeals-850,200,OK,Load Testing 1-9,text,true,,134793,1307,18,19,https://supertails.com/pages/superdeals,6048,0,0
+1707548988250,2787,offer zone/pages/superdeals-850,200,OK,Load Testing 1-15,text,true,,134598,1307,18,19,https://supertails.com/pages/superdeals,2748,0,0
+1707548986236,4864,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-5,text,true,,143792,1310,18,19,https://supertails.com/pages/consult-a-vet,4824,0,0
+1707548985026,6161,offer zone/pages/superdeals-850,200,OK,Load Testing 1-6,text,true,,134628,1307,17,18,https://supertails.com/pages/superdeals,6121,0,0
+1707548986508,5009,search/pages/search-results-1-673,200,OK,Load Testing 1-17,text,true,,121317,1359,17,18,https://supertails.com/pages/search-results-1?q=pedigree,4972,0,0
+1707548988129,3415,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-8,text,true,,243586,1438,17,18,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,3338,0,0
+1707548989879,2035,offer zone/pages/superdeals-850,200,OK,Load Testing 1-16,text,true,,134797,1307,17,18,https://supertails.com/pages/superdeals,1997,0,0
+1707548988419,3624,offer zone/pages/superdeals-850,200,OK,Load Testing 1-18,text,true,,135136,1307,17,18,https://supertails.com/pages/superdeals,3582,0,0
+1707548986385,5946,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-4,text,true,,143457,1310,17,18,https://supertails.com/pages/consult-a-vet,5903,0,0
+1707548988329,4328,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-12,text,true,,153325,1325,16,17,https://supertails.com/collections/henlo,4287,0,0
+1707548988571,4540,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-11,text,true,,143885,1310,16,17,https://supertails.com/pages/consult-a-vet,4501,0,0
+1707548991038,2134,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-15,text,true,,153361,1325,15,16,https://supertails.com/collections/henlo,2091,0,0
+1707548989055,4558,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-19,text,true,,143846,1310,15,16,https://supertails.com/pages/consult-a-vet,4518,0,0
+1707548991189,2736,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-6,text,true,,153428,1325,14,15,https://supertails.com/collections/henlo,2648,0,0
+1707548989223,4854,search/pages/search-results-1-673,200,OK,Smoke Testing 2-20,text,true,,121408,1359,1,15,https://supertails.com/pages/search-results-1?q=pedigree,4848,0,0
+1707548991545,2815,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-8,text,true,,144021,1310,14,14,https://supertails.com/pages/consult-a-vet,2767,0,0
+1707548993927,619,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-6,text,true,,243510,1438,13,13,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,500,0,0
+1707548989203,5487,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-20,text,true,,153356,1325,13,13,https://supertails.com/collections/henlo,5447,0,0
+1707548990036,4768,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-2,text,true,,143683,1310,13,13,https://supertails.com/pages/consult-a-vet,4726,0,0
+1707548990157,4653,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-7,text,true,,153639,1325,12,12,https://supertails.com/collections/henlo,4611,0,0
+1707548990704,4108,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-9,text,true,,153523,1325,12,12,https://supertails.com/collections/henlo,4067,0,0
+1707548990625,4190,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-13,text,true,,153396,1325,12,12,https://supertails.com/collections/henlo,4146,0,0
+1707548990075,4775,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-14,text,true,,153292,1325,12,12,https://supertails.com/collections/henlo,4732,0,0
+1707548989607,5660,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-10,text,true,,243161,1438,12,12,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,5576,0,0
+1707548991518,3782,offer zone/pages/superdeals-850,200,OK,Load Testing 1-17,text,true,,134892,1307,12,12,https://supertails.com/pages/superdeals,3742,0,0
+1707548991915,4006,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-16,text,true,,153258,1325,12,12,https://supertails.com/collections/henlo,3965,0,0
+1707548992657,3387,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-12,text,true,,243424,1438,12,12,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2830,0,0
+1707548994816,1334,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-13,text,true,,243237,1438,12,12,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,1241,0,0
+1707548993173,3010,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-15,text,true,,243409,1438,12,12,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2879,0,0
+1707548995270,1454,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-10,text,true,,144023,1310,12,12,https://supertails.com/pages/consult-a-vet,1413,0,0
+1707548994547,2594,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-6,text,true,,143602,1310,11,11,https://supertails.com/pages/consult-a-vet,2553,0,0
+1707548994851,2372,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-14,text,true,,243705,1438,10,10,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2256,0,0
+1707548995301,2026,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-17,text,true,,153114,1325,10,10,https://supertails.com/collections/henlo,1985,0,0
+1707548994811,2687,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-7,text,true,,243892,1438,10,10,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2504,0,0
+1707548992044,5631,"henlo/collections/henlo-1,310",200,OK,Load Testing 1-18,text,true,,153459,1325,10,10,https://supertails.com/collections/henlo,5319,0,0
+1707548994813,2862,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-9,text,true,,243408,1438,10,10,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,2783,0,0
+1707548996150,1678,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-13,text,true,,143831,1310,10,10,https://supertails.com/pages/consult-a-vet,1638,0,0
+1707548994691,3500,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-20,text,true,,243356,1438,9,9,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,3422,0,0
+1707548997329,1070,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-17,text,true,,243371,1438,9,9,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,993,0,0
+1707548996046,2688,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-12,text,true,,143912,1310,9,9,https://supertails.com/pages/consult-a-vet,2650,0,0
+1707548997499,1377,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-7,text,true,,143867,1310,8,8,https://supertails.com/pages/consult-a-vet,943,0,0
+1707548998192,1492,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-20,text,true,,143529,1310,7,7,https://supertails.com/pages/consult-a-vet,1416,0,0
+1707548995921,3819,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-16,text,true,,243221,1438,6,6,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,3702,0,0
+1707548996184,3621,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-15,text,true,,143472,1310,6,6,https://supertails.com/pages/consult-a-vet,3581,0,0
+1707548997224,3328,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-14,text,true,,143718,1310,5,5,https://supertails.com/pages/consult-a-vet,3289,0,0
+1707548999741,996,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-16,text,true,,143732,1310,4,4,https://supertails.com/pages/consult-a-vet,957,0,0
+1707548998400,3843,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-17,text,true,,143739,1310,3,3,https://supertails.com/pages/consult-a-vet,3803,0,0
+1707548997677,4568,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-9,text,true,,143814,1310,2,2,https://supertails.com/pages/consult-a-vet,4527,0,0
+1707548997676,4645,"henlo/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients-1,339",200,OK,Load Testing 1-18,text,true,,243492,1438,1,1,https://supertails.com/products/henlo-baked-dry-food-for-adult-dogs-100-human-grade-ingredients?variant=44044413632750,4532,0,0
+1707549002323,2863,"consult a vet/pages/consult-a-vet-1,623",200,OK,Load Testing 1-18,text,true,,143689,1310,1,1,https://supertails.com/pages/consult-a-vet,1572,0,0
